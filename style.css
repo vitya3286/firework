@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: hsl(103, 60%, 55%);
+    border: 3px solid hsl(103, 60%, 55%);
+    border-radius: 10px;
+}
+h1 i {
+    color: Aqua;
+    border: 3px solid Green;
+    border-radius: 10px;
+}
+footer p {
+    color:black;
+    background-color: hsl(103, 60%, 55%);
+    border: 3px solid hsl(103, 60%, 55%);
+}
+nav {
+    text-align: center;
+    background-color: hsl(103, 60%, 55%);
+    color: aliceblue;
+    padding: 10px;
+}
+nav a {
+    margin: 20px;
+    color:black;
+    text-decoration: none;
+}
+.fair {
+    background-color: hsl(103, 60%, 55%);
+    border: 3px solid Green;
+}
+h2 {
+    color: blue
+}
